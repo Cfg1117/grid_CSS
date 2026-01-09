@@ -12,7 +12,7 @@
 .d2 { background-color: LightBlue;
 justify-self: center; }
 .d3 { background-color: LightGreen;
-align-self: end; }
+align-self: end;  }
 .d4 { background-color: LightPink; }
 .d5 { background-color: PaleGoldenRod;
 grid-column : 2/4; }
